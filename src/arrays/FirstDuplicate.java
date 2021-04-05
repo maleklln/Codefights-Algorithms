@@ -1,5 +1,5 @@
 package arrays;
-
+//  Floyd's Tortoise and Hare
 public class FirstDuplicate {
 	int firstDuplicate(int[] a) {
 	       if(a.length<=1) return -1;
